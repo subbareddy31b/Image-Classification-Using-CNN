@@ -1,1 +1,1 @@
-# Image-Classification-Using-CNN-and-RNN
+# Image-Classification-Using-CNN
